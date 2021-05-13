@@ -1,0 +1,8 @@
+Purple         (Purple 2)
+Baby Blue      (Blue 1)
+Green          (Green 3)
+Yellow         (Yellow 2)
+Light Orange   (Orange 1)
+Pink           (Pink 4)
+Hot Pink       (Pink 5)
+Light Gray     (Gray 3)
